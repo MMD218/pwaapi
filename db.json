@@ -1,0 +1,24 @@
+{
+"product":[
+{"id":1,"name":"Northern phalarope","category":"Orange","price":336233},
+{"id":2,"name":"Siskin, yellow-rumped","category":"Puce","price":787376},
+{"id":3,"name":"Gecko, barking","category":"Orange","price":884802},
+{"id":4,"name":"Squirrel glider","category":"Fuscia","price":803592},
+{"id":5,"name":"Thomson's gazelle","category":"Khaki","price":162403},
+{"id":6,"name":"Bent-toed gecko","category":"Green","price":290181},
+{"id":7,"name":"Sally lightfoot crab","category":"Violet","price":897161},
+{"id":8,"name":"Capuchin, weeper","category":"Fuscia","price":635611},
+{"id":9,"name":"Rufous tree pie","category":"Purple","price":102607},
+{"id":10,"name":"Starling, red-shouldered glossy","category":"Teal","price":497088},
+{"id":11,"name":"Blue-tongued skink","category":"Maroon","price":49228},
+{"id":12,"name":"Galapagos albatross","category":"Pink","price":12561},
+{"id":13,"name":"Brown hyena","category":"Aquamarine","price":83436},
+{"id":14,"name":"Brocket, red","category":"Violet","price":153227},
+{"id":15,"name":"Bat, madagascar fruit","category":"Blue","price":955049},
+{"id":16,"name":"Whip-tailed wallaby","category":"Fuscia","price":166663},
+{"id":17,"name":"Phascogale, brush-tailed","category":"Red","price":766533},
+{"id":18,"name":"Alligator, american","category":"Violet","price":709961},
+{"id":19,"name":"African lion","category":"Violet","price":797199},
+{"id":20,"name":"Goose, spur-winged","category":"Yellow","price":460685}
+]
+}
